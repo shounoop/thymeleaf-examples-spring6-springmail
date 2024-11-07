@@ -1,0 +1,8 @@
+org\thymeleaf\examples\spring6\springmail\web\controller\MainController.class
+org\thymeleaf\examples\spring6\springmail\web\controller\ErrorController.class
+org\thymeleaf\examples\spring6\springmail\SpringWebApplicationInitializer.class
+org\thymeleaf\examples\spring6\springmail\business\SpringBusinessConfig.class
+org\thymeleaf\examples\spring6\springmail\web\SpringWebConfig.class
+org\thymeleaf\examples\spring6\springmail\web\controller\SendingController.class
+org\thymeleaf\examples\spring6\springmail\business\SpringMailConfig.class
+org\thymeleaf\examples\spring6\springmail\business\service\EmailService.class
